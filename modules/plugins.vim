@@ -1,4 +1,4 @@
-call plug#begin()
+call plug#begin('~/.config/nvim/plugged')
 
 execute "source" Dot("plugins.vim")
 
@@ -13,3 +13,5 @@ for file in split(glob(Dot("modules/plugins/*.vim")), "\n")
     echom "No plugin found for config file " . file
   endif
 endfor
+
+colorscheme one

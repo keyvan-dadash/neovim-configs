@@ -1,6 +1,7 @@
 Plug 'bfrg/vim-cpp-modern'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 Plug 'dracula/vim'
+Plug 'rakr/vim-one'
 Plug 'ryanoasis/vim-devicons'
 Plug 'SirVer/ultisnips'
 Plug 'honza/vim-snippets'
