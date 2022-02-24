@@ -31,6 +31,8 @@ if executable('ccls')
       \ })
 endif
 
+inoremap <silent><expr> <c-space> coc#refresh()
+
 func! s:my_colors_setup() abort
     " this is an example
     hi Pmenu guibg=#d7e5dc gui=NONE

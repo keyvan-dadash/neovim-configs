@@ -9,3 +9,9 @@ endfor
 if filereadable("~/.nvim.local.vim")
   source ~/.nvim.local.vim
 endif
+
+" select the color scheme
+colorscheme dracula
+
+" vim floaterm
+highlight FloatermBorder guifg=cyan
