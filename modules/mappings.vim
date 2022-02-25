@@ -1,4 +1,5 @@
 map <C-B> :NERDTreeToggle<CR>
+noremap <space>\ :Files<CR>
 
 noremap <space>1 1gt
 noremap <space>2 2gt
