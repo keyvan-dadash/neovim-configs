@@ -1,2 +1,0 @@
-require("fzf.vim").setup{
-}

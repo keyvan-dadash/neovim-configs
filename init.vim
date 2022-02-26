@@ -15,3 +15,5 @@ colorscheme dracula
 
 " vim floaterm
 highlight FloatermBorder guifg=cyan
+
+lua require('neoscro')
