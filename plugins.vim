@@ -24,3 +24,4 @@ Plug 'jdhao/better-escape.vim'
 Plug 'liuchengxu/vista.vim'
 Plug 'karb94/neoscroll.nvim'
 Plug 'tpope/vim-commentary'
+Plug 'mg979/vim-visual-multi', {'branch': 'master'}
