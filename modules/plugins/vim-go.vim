@@ -1,0 +1,13 @@
+let g:go_highlight_functions = 1
+let g:go_highlight_function_calls = 1
+let g:go_highlight_function_parameters = 1
+let g:go_imports_mode = 1
+let g:go_imports_autosave = 1
+let g:go_def_mapping_enabled = 1
+let g:go_gopls_enabled = 1
+let g:go_highlight_operators = 1
+let g:go_highlight_types = 1
+let g:go_highlight_fields = 1
+let g:go_fmt_autosave = 1
+let g:go_def_mode='gopls'
+let g:go_info_mode='gopls'

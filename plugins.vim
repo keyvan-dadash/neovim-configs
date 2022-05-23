@@ -25,3 +25,4 @@ Plug 'liuchengxu/vista.vim'
 Plug 'karb94/neoscroll.nvim'
 Plug 'tpope/vim-commentary'
 Plug 'mg979/vim-visual-multi', {'branch': 'master'}
+Plug 'davidhalter/jedi-vim'
