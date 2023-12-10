@@ -1,0 +1,1 @@
+/home/sod/general/configs/nneovim-configs/init.lua
